@@ -1,0 +1,4 @@
+# don't push the files below above git 
+.env
+node_modules
+node_modules/*
